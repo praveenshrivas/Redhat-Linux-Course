@@ -9,3 +9,6 @@ At the end of this course you will be having good understanding of Redhat Linux.
 
 This Course is divided into Different chapters and each chapter is focusing of separate module. 
 
+## Audience
+This tutorial has been prepared for the beginners to help them understand the basics concepts.
+
