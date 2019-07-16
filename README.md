@@ -12,3 +12,8 @@ This Course is divided into Different chapters and each chapter is focusing of s
 ## Audience
 This tutorial has been prepared for the beginners to help them understand the basics concepts.
 
+## Prerequisites
+A basic understanding of computer concept will help. 
+
+
+
