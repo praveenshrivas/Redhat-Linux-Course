@@ -4,5 +4,8 @@
 **Welcome to the Redhat Linux course** 
 
 This Course is designed for the absoulute Begineer. 
-You will be having good understanding of Redhat Linux.  
+
+At the end of this course you will be having good understanding of Redhat Linux.
+
+This Course is divided into Different chapters and each chapter is focusing of separate module. 
 
