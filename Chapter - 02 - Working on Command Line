@@ -1,0 +1,17 @@
+Please find some command editing Shortcuts. 
+Keep it handy for future reference. 
+
+1. CTRL + A - Go to the start of the command line. 
+2. CTRL + B - Move backward one character. 
+3. CTRL + D - Delete character under the cursor. 
+4. CTRL + E - Go to the end of the command line. 
+5. CTRL + F - Move Forward one character. 
+6. CTRL + H - Delete the character before the cursor. 
+7. CTRL + K - Delete from cursor to the end of the command line. 
+8. CTRL + T - Swap character beneath cursor with one before. 
+9. CTRL + U - Delete from cursor to the Start of the command line. 
+10. CTRL + W - Delete from the cursor to the start of the word.
+11. CTRL + XX - Move between start of the command line and Current position. 
+12. CTRL + Y - Paste word or text that recently was cut.
+13. ALT + B - Move backward one word. 
+14. ALT + F - Move forward one word. 
